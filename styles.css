@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapi.com/css?family=Roboto);
 
+html {
+  scroll-behaviour: smooth;
+}
+
 h1 {
   text-align: center;
   color: white;
